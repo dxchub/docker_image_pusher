@@ -1,1 +1,1 @@
-heidiks/rabbitmq-delayed-message-exchange:3.8.3
+heidiks/rabbitmq-delayed-message-exchange:3.8.3-management
