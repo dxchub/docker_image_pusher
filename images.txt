@@ -3,5 +3,4 @@ postgres:14.0
 redis:alpine
 docker.elastic.co/elasticsearch/elasticsearch:6.7.2
 ovhcom/cds-engine:0.54.1
-bobrik/socat
 docker.elastic.co/kibana/kibana-oss:6.7.2
