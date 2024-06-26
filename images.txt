@@ -1,1 +1,2 @@
-ubuntu:22.04
+nacos/nacos-mysql:8.0.16
+nacos/nacos-server:v2.1.1
