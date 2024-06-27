@@ -1,1 +1,1 @@
-debian:11.9
+swarmpit/install:1.9
