@@ -1,1 +1,1 @@
-atlassian/bitbucket-server:8.2.2-jdk11
+docker pull atlassian/bitbucket-server:6.1.4
