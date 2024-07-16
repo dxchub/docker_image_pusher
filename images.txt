@@ -1,1 +1,1 @@
-jenkins:2.60.3
+atlassian/bitbucket-server:8.16.2
