@@ -1,1 +1,1 @@
-docker pull atlassian/bitbucket-server:6.1.4
+atlassian/bitbucket-server:5.16.11
