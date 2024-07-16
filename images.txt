@@ -1,1 +1,1 @@
-atlassian/bitbucket-server:8.16.2
+atlassian/bitbucket-server:8.2.2-jdk11
