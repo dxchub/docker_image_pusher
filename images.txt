@@ -1,1 +1,1 @@
-atlassian/bitbucket-server:5.16.11
+atlassian/bitbucket-server:8.14.0-eap01-ubuntu-jdk11
