@@ -1,1 +1,1 @@
-mysql:8.4.3
+grafana/grafana:11.4.0
