@@ -1,1 +1,1 @@
-nodered/node-red:latest
+nginx:1.27-perl
