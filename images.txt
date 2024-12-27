@@ -1,2 +1,1 @@
-bitnami/redis:latest
-bitnami/redis:6.2.16
+python:3.12.8-alpine3.21
