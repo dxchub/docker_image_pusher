@@ -1,1 +1,2 @@
-emqx/neuron:latest
+ buddho/etcd-browser:latest
+
