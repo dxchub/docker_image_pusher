@@ -1,2 +1,1 @@
- buddho/etcd-browser:latest
-
+evildecay/etcdkeeper:v0.7.6
