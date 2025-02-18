@@ -1,1 +1,1 @@
-bitnami/redis:latest
+tooljet/try:ee-lts-latest
