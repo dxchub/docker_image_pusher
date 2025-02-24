@@ -1,2 +1,2 @@
-bitnami/prometheus:2.55.1
+grafana/grafana:11.5.2
 
