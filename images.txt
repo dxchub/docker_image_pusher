@@ -1,1 +1,2 @@
-tooljet/try:ee-lts-latest
+bitnami/prometheus:2.55.1
+
