@@ -1,4 +1,4 @@
-tdengine:3.2.3.0
+tdengine/tdengine:3.2.3.0
 
 
 
