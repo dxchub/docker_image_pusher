@@ -1,4 +1,4 @@
-bitnami/prometheus:2.55.1
+emqx:5.8.4
 
 
 
