@@ -1,3 +1,4 @@
-bitnami/node-exporter:1.9.0
+bitnami/prometheus:2.55.1
+
 
 
