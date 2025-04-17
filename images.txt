@@ -1,1 +1,1 @@
-flowfuse/node-red:latest
+nodered/node-red:latest
