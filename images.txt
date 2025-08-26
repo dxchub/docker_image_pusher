@@ -1,1 +1,1 @@
-gitea/act_runner:release
+ghcr.io/astral-sh/uv:alpine3.22
