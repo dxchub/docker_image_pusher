@@ -1,1 +1,1 @@
-bitnami/influxdb:2.7.11
+influxdb:2
