@@ -1,1 +1,1 @@
-influxdb:2
+emqx:latest
