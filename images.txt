@@ -1,1 +1,1 @@
-bitnami/nats:2.11.8
+bitnami/influxdb:2.7.11
