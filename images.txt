@@ -1,1 +1,1 @@
-jetbrains/teamcity-server
+px4io/px4-dev-nuttx-focal:2022-08-12
