@@ -1,1 +1,1 @@
-emqx:5.8.8
+portainer/portainer-ce:2.33.2-alpine
