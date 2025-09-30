@@ -1,1 +1,1 @@
-python:3.11-bullseye
+redis:7.4.5
