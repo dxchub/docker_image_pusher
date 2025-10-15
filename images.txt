@@ -1,1 +1,1 @@
-phpmyadmin:5.2.3
+ghcr.io/astral-sh/uv:python3.11-bookworm
