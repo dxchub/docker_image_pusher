@@ -1,1 +1,1 @@
-ghcr.io/astral-sh/uv:python3.11-bookworm
+ghcr.io/astral-sh/uv:python3.12-alpine
