@@ -1,3 +1,2 @@
-ghcr.io/astral-sh/uv:python3.13-trixie
-
+ openvpn/openvpn-as:latest
 
