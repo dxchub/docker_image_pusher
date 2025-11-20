@@ -1,2 +1,3 @@
- openvpn/openvpn-as:latest
+rabbitmq:3.13.7-management
+
 
