@@ -1,3 +1,4 @@
-influxdb:2.7.12
+traefik:v3.6.2
+
 
 
