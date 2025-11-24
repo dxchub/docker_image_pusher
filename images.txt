@@ -1,1 +1,1 @@
-node:22.21
+nginx:1.25-alpine
