@@ -1,1 +1,4 @@
-postgres:10
+cptactionhank/atlassian-bamboo:latest
+cptactionhank/atlassian-confluence:7.9.3
+cptactionhank/atlassian-jira-software:7.13.1
+
