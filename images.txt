@@ -1,4 +1,1 @@
-cptactionhank/atlassian-bamboo:latest
-cptactionhank/atlassian-confluence:7.9.3
-cptactionhank/atlassian-jira-software:7.13.1
-
+elestio/pgadmin:REL-9_7
