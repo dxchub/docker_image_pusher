@@ -1,1 +1,3 @@
-elestio/pgadmin:REL-9_7
+lfedge/ekuiper:1.10.0-slim
+registry.cn-shanghai.aliyuncs.com/winc-link/mqtt-broker:v1.0
+registry.cn-shanghai.aliyuncs.com/winc-link/hummingbird-core:v1.0
