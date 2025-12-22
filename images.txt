@@ -1,2 +1,2 @@
-postgres:18
-jetbrains/teamcity-server:2025.07
+postgres:13.6
+atlassian/bamboo-server:latest
