@@ -1,1 +1,12 @@
-emqx/emqx:latest
+ghcr.io/absmach/magistrala/ui-mg:latest
+ghcr.io/absmach/magistrala/ui-backend:latest
+postgres:16.2-alpine
+chrislusf/seaweedfs:latest
+curlimages/curl
+postgres:16.2-alpine
+ghcr.io/absmach/magistrala/re:${MG_RELEASE_TAG}
+postgres:16.2-alpine
+ghcr.io/absmach/magistrala/alarms:${MG_RELEASE_TAG}
+postgres:16.2-alpine
+ghcr.io/absmach/magistrala/reports:${MG_RELEASE_TAG}
+gotenberg/gotenberg:8.25.1
