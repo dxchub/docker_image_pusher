@@ -1,10 +1,1 @@
-langgenius/dify-web:1.11.2
-postgres:15-alpine
-ubuntu/squid:latest
-langgenius/dify-api:1.11.2
-busybox:latest
-semitechnologies/weaviate:1.27.0
-langgenius/dify-plugin-daemon:0.5.2-local
-nginx:latest
-langgenius/dify-sandbox:0.2.12
-redis:6-alpine
+ minio/minio:RELEASE.2025-09-07T16-13-09Z
