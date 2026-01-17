@@ -1,2 +1,2 @@
-ollama/ollama:latest
-ghcr.io/open-webui/open-webui:main
+ghcr.io/funasr/sensevoice:gpu-latest
+rhasspy/wyoming-piper:latest
