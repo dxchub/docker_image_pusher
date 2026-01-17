@@ -1,1 +1,2 @@
-livekit/livekit-server:latest
+ollama/ollama:latest
+ghcr.io/open-webui/open-webui:main
