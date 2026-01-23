@@ -1,1 +1,1 @@
-qdrant/qdrant:latest
+mysql:8.0
