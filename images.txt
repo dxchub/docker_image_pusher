@@ -1,1 +1,1 @@
-nodered/node-red:4.1.3-22
+busybox:latest
