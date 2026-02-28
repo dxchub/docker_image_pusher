@@ -1,1 +1,2 @@
-ghcr.io/open-webui/open-webui:cuda
+prom/prometheus:latest
+grafana/grafana:latest
