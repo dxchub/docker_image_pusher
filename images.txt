@@ -1,2 +1,1 @@
-prom/prometheus:latest
-grafana/grafana:latest
+ghcr.io/open-webui/open-webui:main
